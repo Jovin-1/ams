@@ -1,0 +1,12 @@
+{
+  "name": "aerosync-airport-management-system",
+  "version": "1.0.0",
+  "description": "IEEE/ISO/IEC 29148:2018-aligned Airport Management System (AMS)",
+  "scripts": {
+    "start": "bash start.sh",
+    "seed": "cd backend && node db/seed.js",
+    "build": "cd frontend && npm run build"
+  },
+  "author": "RGIT AMS Project Team",
+  "license": "ISC"
+}

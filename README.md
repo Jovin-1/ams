@@ -103,3 +103,5 @@ This automatically starts:
 The complete 3NF relational schema is defined in [backend/db/schema.sql](file:///home/jovin/Desktop/ams/backend/db/schema.sql), comprising 11 core tables matching Section 6.1:
 `users`, `passengers`, `employees`, `airlines`, `aircraft`, `airports`, `gates`, `flights`, `bookings`, `boarding_passes`, `baggage`, `payments`, and `notifications`.
 # ams
+# ams
+# ams
